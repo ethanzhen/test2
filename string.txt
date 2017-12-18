@@ -1,4 +1,2 @@
 <string>测试<string>
-<string>冲<string>
-<string>天空<string>
 <string>乌云</string>
